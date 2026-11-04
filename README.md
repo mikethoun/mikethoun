@@ -1,0 +1,13 @@
+I'm a data engineering leader in Chicago. I built the core data platforms and led the data teams at Outcome Health, Lob, and Autograph, most recently as Autograph's first data hire and head of data.
+
+On the side, I build golf apps at Greenside Ventures. Their repos are private, and they're most of the activity on this graph.
+
+- [GolfBod](https://golfbod.app), the gym app for golfers, on iOS and Android, with 4.8 stars on the App Store. An LLM pipeline writes each golfer's training program.
+- [Putt Pitch Drive](https://puttpitchdrive.com), a practice app for junior golf skills competitions, on iOS and Android.
+- [Golf Tactics](https://golftactics.com), a daily golf strategy game in the browser where everyone plays the same hole. Opens in November 2026.
+
+The apps are TypeScript: React Native and Expo on mobile, Next.js on the web, Three.js for Golf Tactics' holes, and Supabase and Stripe behind them.
+
+The two public Python libraries are older. redshift-auto-schema creates and validates Redshift tables from flat files, and s3-log-query fetches log messages from S3.
+
+More at [mikethoun.com](https://mikethoun.com) and on [LinkedIn](https://www.linkedin.com/in/mikethoun).

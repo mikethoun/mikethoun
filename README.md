@@ -1,6 +1,6 @@
-I'm a data engineering leader in Chicago. I built the core data platforms and led the data teams at Outcome Health, Lob, and Autograph, most recently as Autograph's first data hire and head of data.
+Technical leader for data, based in Chicago. I started and spent the majority of my career in financial markets, first at the Chicago Mercantile Exchange, and then at Spot Trading, where I was the lead database administrator and the owner of everything data at the firm. After that I moved to startups, where I built the core data and analytics platforms and led the data teams at Outcome Health, Lob, and Autograph, most recently as Autograph's first data hire and head of data.
 
-On the side, I build golf apps at Greenside Ventures. Their repos are private, and they're most of the activity on this graph.
+Currently, I'm building golf apps as the founder of Greenside Ventures. Their repos are private, and they're most of the activity on this graph.
 
 - [GolfBod](https://golfbod.app), the gym app for golfers, on iOS and Android, with 4.8 stars on the App Store. An LLM pipeline writes each golfer's training program.
 - [Putt Pitch Drive](https://puttpitchdrive.com), a practice app for junior golf skills competitions, on iOS and Android.
